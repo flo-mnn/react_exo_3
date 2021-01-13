@@ -12,6 +12,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  width: 100%;
+  /* position: fixed; */
+  background-color: navy;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style-type: none;
+  margin: 0 20px;
+  font-weight: 600;
+  font-style: italic;
+  color: white;
+}
+
+
 .App {
   display: block;
   margin: 0 auto;
