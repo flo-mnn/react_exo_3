@@ -1,0 +1,13 @@
+Exercice 3 (vidéo 5 minimum)
+- Créez un projet "react_exo_3"  avec npx
+- Épurez le component App.js en retirant tout ce qu'il y a dans son return et ces deux imports logo/app.css 
+- Supprimez le fichier App.css et logo.svg
+- Faites un commit "Épuration du component App"
+- Dans le return du component App rajoutez une div avec dedans un h1 "Exercice 3"
+- Ajoutez une image dans ce component
+- Mettez le titre en bleu
+- Faites un commit "Modification du component App"
+- Créez un nouveau component du nom de Navbar.js en observant comment est fait App.js
+- Dans le component Navbar ajoutez y un ul avec 3 li "home","contact","portfolio"
+- Trouvez comment afficher son contenu avant le h1 "Exercice 3" du component App
+- Faites un commit "Fin exercice 3"
